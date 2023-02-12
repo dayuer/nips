@@ -37,26 +37,26 @@ NIPs stand for **Nostr Implementation Possibilities**. They exist to document wh
 
 | kind          | description                      | NIP                     |
 | ------------- | -------------------------------- | ----------------------- |
-| 0             | Metadata                         | [1](01.md), [5](05.md)  |
-| 1             | Short Text Note                  | [1](01.md)              |
-| 2             | Recommend Relay                  | [1](01.md)              |
-| 3             | Contacts                         | [2](02.md)              |
-| 4             | Encrypted Direct Messages        | [4](04.md)              |
-| 5             | Event Deletion                   | [9](09.md)              |
-| 7             | Reaction                         | [25](25.md)             |
-| 40            | Channel Creation                 | [28](28.md)             |
-| 41            | Channel Metadata                 | [28](28.md)             |
-| 42            | Channel Message                  | [28](28.md)             |
-| 43            | Channel Hide Message             | [28](28.md)             |
-| 44            | Channel Mute User                | [28](28.md)             |
-| 45-49         | Public Chat Reserved             | [28](28.md)             |
-| 1984          | Reporting                        | [56](56.md)             |
-| 10002         | Relay List Metadata              | [65](65.md)             |
-| 22242         | Client Authentication            | [42](42.md)             |
-| 1000-9999     | Regular Events                   | [16](16.md)             |
-| 10000-19999   | Replaceable Events               | [16](16.md)             |
-| 20000-29999   | Ephemeral Events                 | [16](16.md)             |
-| 30000-39999   | Parameterized Replaceable Events | [33](33.md)             |
+| 0             | 元数据	                           | [1](01.md), [5](05.md)  |
+| 1             | 短文本笔记                         | [1](01.md)              |
+| 2             | 推荐中继	                         | [1](01.md)              |
+| 3             | 联系人	                           | [2](02.md)              |
+| 4             | 加密直接消息	                     | [4](04.md)              |
+| 5             | 事件删除	                        | [9](09.md)              |
+| 7             | 反应                              | [25](25.md)             |
+| 40            | 频道创建                           | [28](28.md)             |
+| 41            | 频道元数据	                       | [28](28.md)             |
+| 42            | 频道消息	                        | [28](28.md)             |
+| 43            | 隐藏频道消息	                      | [28](28.md)             |
+| 44            | 频道静音用户	                | [28](28.md)             |
+| 45-49         | 公共聊天保留	             | [28](28.md)             |
+| 1984          | 报告                        | [56](56.md)             |
+| 10002         | 中继列表元数据	              | [65](65.md)             |
+| 22242         | 客户端认证	            | [42](42.md)             |
+| 1000-9999     | 普通事件	                  | [16](16.md)             |
+| 10000-19999   | 可替换事件	              | [16](16.md)             |
+| 20000-29999   | 临时事件	               | [16](16.md)             |
+| 30000-39999   | 参数化可替换事件	  | [33](33.md)             |
 
 
 
