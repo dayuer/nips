@@ -2,36 +2,36 @@
 
 NIPs stand for **Nostr Implementation Possibilities**. They exist to document what MUST, what SHOULD and what MAY be implemented by [Nostr](https://github.com/fiatjaf/nostr)-compatible _relay_ and _client_ software.
 
-- [NIP-01: Basic protocol flow description](01.md)
-- [NIP-02: Contact List and Petnames](02.md)
-- [NIP-03: OpenTimestamps Attestations for Events](03.md)
-- [NIP-04: Encrypted Direct Message](04.md)
-- [NIP-05: Mapping Nostr keys to DNS-based internet identifiers](05.md)
-- [NIP-06: Basic key derivation from mnemonic seed phrase](06.md)
-- [NIP-07: `window.nostr` capability for web browsers](07.md)
-- [NIP-08: Handling Mentions](08.md)
-- [NIP-09: Event Deletion](09.md)
-- [NIP-10: Conventions for clients' use of `e` and `p` tags in text events.](10.md)
-- [NIP-11: Relay Information Document](11.md)
-- [NIP-12: Generic Tag Queries](12.md)
-- [NIP-13: Proof of Work](13.md)
-- [NIP-14: Subject tag in text events.](14.md)
-- [NIP-15: End of Stored Events Notice](15.md)
-- [NIP-16: Event Treatment](16.md)
-- [NIP-19: bech32-encoded entities](19.md)
-- [NIP-20: Command Results](20.md)
-- [NIP-21: `nostr:` URL scheme](21.md)
-- [NIP-22: Event created_at Limits](22.md)
-- [NIP-25: Reactions](25.md)
-- [NIP-26: Delegated Event Signing](26.md)
-- [NIP-28: Public Chat](28.md)
-- [NIP-33: Parameterized Replaceable Events](33.md)
-- [NIP-36: Sensitive Content](36.md)
-- [NIP-40: Expiration Timestamp](40.md)
-- [NIP-42: Authentication of clients to relays](42.md)
-- [NIP-50: Keywords filter](50.md)
-- [NIP-56: Reporting](56.md)
-- [NIP-65: Relay List Metadata](65.md)
+- NIP-01：基本协议流程描述
+- NIP-02：联系人列表和昵称
+- NIP-03：事件的OpenTimestamps证明
+- NIP-04：加密的直接消息
+- NIP-05：将Nostr键映射到基于DNS的Internet标识符
+- NIP-06：基于助记种子短语的基本密钥派生
+- NIP-07：Web浏览器的window.nostr功能
+- NIP-08：处理提及
+- NIP-09：事件删除
+- NIP-10：客户端在文本事件中使用e和p标签的约定
+- NIP-11：中继器信息文件
+- NIP-12：通用标签查询
+- NIP-13：工作证明
+- NIP-14：文本事件中的主题标签
+- NIP-15：存储事件通知结束
+- NIP-16：事件处理
+- NIP-19：bech32编码实体
+- NIP-20：命令结果
+- NIP-21：nostr：URL方案
+- NIP-22：事件创建_at限制
+- NIP-25：反应
+- NIP-26：委托事件签名
+- NIP-28：公共聊天
+- NIP-33：参数化可替换事件
+- NIP-36：敏感内容
+- NIP-40：过期时间戳
+- NIP-42：客户端向中继器的身份验证
+- NIP-50：关键字过滤器
+- NIP-56：报告
+- NIP-65：中继器列表元数据
 
 ## Event Kinds
 
